@@ -1,3 +1,5 @@
+# ⚠️ DEPRECATED: use [logtape-easy](https://github.com/robertwang1001/logtape-easy) instead. A small LogTape helper for apps that provides out-of-the-box logging with a built-in console sink and minimal setup.
+
 <h1 align="center">Welcome to logger 👋</h1>
 
 ![GitHub License](https://img.shields.io/github/license/robertwang1001/logger)
