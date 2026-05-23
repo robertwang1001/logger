@@ -1,18 +1,14 @@
-> ⚠️ **DEPRECATED**
-> This package is no longer maintained.
-> Please use **[`namespaced-logger`](https://www.npmjs.com/package/namespaced-logger)** instead.
-
 <h1 align="center">Welcome to logger 👋</h1>
 
-![GitHub License](https://img.shields.io/github/license/GloryWong/logger)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/GloryWong/logger)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/GloryWong/logger/release.yml)
-![GitHub Release](https://img.shields.io/github/v/release/GloryWong/logger)
-![GitHub Release Date](https://img.shields.io/github/release-date/GloryWong/logger)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/GloryWong/logger)
-![GitHub watchers](https://img.shields.io/github/watchers/GloryWong/logger)
-![GitHub forks](https://img.shields.io/github/forks/GloryWong/logger)
-![GitHub Repo stars](https://img.shields.io/github/stars/GloryWong/logger)
+![GitHub License](https://img.shields.io/github/license/robertwang1001/logger)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/robertwang1001/logger)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/robertwang1001/logger/release.yml)
+![GitHub Release](https://img.shields.io/github/v/release/robertwang1001/logger)
+![GitHub Release Date](https://img.shields.io/github/release-date/robertwang1001/logger)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/robertwang1001/logger)
+![GitHub watchers](https://img.shields.io/github/watchers/robertwang1001/logger)
+![GitHub forks](https://img.shields.io/github/forks/robertwang1001/logger)
+![GitHub Repo stars](https://img.shields.io/github/stars/robertwang1001/logger)
 ![NPM Version](https://img.shields.io/npm/v/%40gloxy%2Flogger)
 ![NPM Type Definitions](https://img.shields.io/npm/types/%40gloxy%2Flogger)
 ![NPM Downloads](https://img.shields.io/npm/dw/%40gloxy%2Flogger)
@@ -137,10 +133,10 @@ if (import.meta.env.NODE_ENV === 'producation') {
 
 ## Author
 
-👤 **GloryWong**
+👤 **robertwang1001**
 
 * Website: https://glorywong.com
-* GitHub: [@GloryWong](https://github.com/GloryWong)
+* GitHub: [@robertwang1001](https://github.com/robertwang1001)
 
 ## Show Your Support
 

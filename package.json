@@ -4,18 +4,18 @@
   "version": "2.2.6",
   "description": "DEPRECATED: use 'namespaced-logger' instead. A debug.js based namespaced logging utility with predefined log types(debug, info, warn, error) and supporting title-scoped logging, available in both web browsers and Node.js.",
   "author": {
-    "name": "GloryWong",
+    "name": "robertwang1001",
     "email": "glorywong1001@gmail.com",
     "url": "https://glorywong.com"
   },
   "license": "MIT",
-  "homepage": "https://github.com/GloryWong/logger#readme",
+  "homepage": "https://github.com/robertwang1001/logger#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GloryWong/logger.git"
+    "url": "git+https://github.com/robertwang1001/logger.git"
   },
   "bugs": {
-    "url": "https://github.com/GloryWong/logger/issues"
+    "url": "https://github.com/robertwang1001/logger/issues"
   },
   "keywords": [
     "log",
